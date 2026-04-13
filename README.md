@@ -1,6 +1,6 @@
 # Cybercrime Analysis: A Longitudinal Data-Driven Study (2015-2024)
 
-Masters Project | Coventry University
+Pavan Kumar Masters Project | Coventry University
 
 ## Overview
 
